@@ -1,13 +1,13 @@
 # Canvas Project
 
 ### 필요 모듈
-Kivy                2.1.0
-kivymd              1.0.0.dev0
-matplotlib          3.5.2
-numpy               1.22.4
-opencv-python       4.5.5.64
-torch               1.9.0+cu111
-torchvision         0.10.0+cu111
+ - Kivy                2.1.0
+ - kivymd              1.0.0.dev0
+ - matplotlib          3.5.2
+ - numpy               1.22.4
+ - opencv-python       4.5.5.64
+ - torch               1.9.0+cu111
+ - torchvision         0.10.0+cu111
 
 
 ### 실행 조건
